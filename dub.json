@@ -1,0 +1,10 @@
+{
+	"name": "benchmarkplotter",
+	"authors": [
+		"burner"
+	],
+	"description": "The program to plot the benchmark of std.experimental.benchmark",
+	"copyright": "Copyright © 2016, burner",
+	"license": "boost",
+	"targetType": "executable"
+}
